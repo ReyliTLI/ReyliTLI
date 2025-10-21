@@ -24,32 +24,6 @@
 
 ---
 
-[comment]: <> (Extend Catistics)
-<details>
-
-[comment]: <> (Most used languages)
-<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daenges&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
-
-[comment]: <> (Github statistics)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
-
-[comment]: <> (Commit graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=daenges&bg_color=282a36&color=dd6387&line=dd6387&point=ffffff&area=true&hide_border=false)](https://github.com/Daenges)
-</details>
-
-
----
-
-[comment]: <> (Extend trophies)
-<details>
-<summary align="center">:trophy: Trophies :trophy:</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daenges&amp;theme=dracula" alt="daenges" /></a> </p>
-</details>
-
----
-
 <details>
 <summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
 <br />
