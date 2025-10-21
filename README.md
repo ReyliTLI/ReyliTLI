@@ -19,10 +19,6 @@
 <h3 align="center"><b>Languages:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Hobby Projects:</h3>
-<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
-
 <br />
 <br />
 
